@@ -1,1 +1,2 @@
-src/chat.py
+requirements.txt
+chat.py
