@@ -1,6 +1,6 @@
 # Says hello to world by returning a string of HTML
 
-from flask import Flask, render_template, request
+from flask import Flask
 
 app = Flask(__name__)
 
